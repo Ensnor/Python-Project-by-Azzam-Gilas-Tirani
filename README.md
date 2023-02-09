@@ -22,9 +22,15 @@ Give good decision-making to stakeholders
 Library:
 
 pandas
+
 numpy
-matplotlib.pyplot
+
+matplotlib
+
 seaborn
-plotly.express
+
+plotly
+
 sklearn
+
 yellowbrick
