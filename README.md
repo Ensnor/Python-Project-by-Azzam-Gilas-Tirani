@@ -8,6 +8,7 @@ Objective:
 Identify the right campaign to expand into government bond investment products.
 
 Methodology in this project:
+
 DATA CLEANING
 the process of  identifying and fixing  any issues with a data set using Pandas Library
 
@@ -17,3 +18,13 @@ Create client segmentation with K-Means and Silhouette Approach
 
 RECOMMENDATION
 Give good decision-making to stakeholders
+
+Library:
+
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+plotly.express
+sklearn
+yellowbrick
